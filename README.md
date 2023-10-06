@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :books:Tech Stacks:books:
 
-> ### String
+> ### Strong
 <div>
   <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-> ### knowledgeable
+> ### Knowledgeable
 <div>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=red"/>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-> ### experienced
+> ### Experienced
 <div>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
