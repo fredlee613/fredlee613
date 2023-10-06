@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tracis CI-964b00?style=for-the-badge&logo=Tracis CI/CD&logoColor=yellow"/>
 </div>
 <br>
 
