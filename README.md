@@ -62,6 +62,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=fredlee613&show_icons=true">
 <div>
   
-### 🏆 Baekjoon solved rank 🏆
+<!-- ### 🏆 Baekjoon solved rank 🏆
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=diploma613)](https://solved.ac/diploma613)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=diploma613)](https://solved.ac/diploma613) -->
