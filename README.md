@@ -100,9 +100,10 @@ ng<br>
             <li>배포(Travis CI, EC2, S3)</li>
           </ul>
         </li>
-        <li>프로젝트 아키텍처<br>![프로젝트 아키텍처](./project_architecture.png)</li> 
+        <li>프로젝트 아키텍처</li>
       </ul>
     </li>
 </ul>
+![프로젝트 아키텍처](./project_architecture.png)
 <br />
 <br />
