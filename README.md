@@ -1,7 +1,7 @@
 ## Juhee Fred Lee / 이주희
 안녕하세요! 만들고 개선해 나가는 것이 재밌어서 개발자가 되기로 한 이주희입니다.
 대학에서 국제통상학을 전공하면서 왜 꼭 정해진 절차대로만 문제를 해결해야 할까? <b><i>나의 논리를 기술적으로 풀어내어 서비스를 만들고 개선하면 재밌지 않을까?</i></b> 하는 생각을 가지게 되며 개발자의 길에 접어들게 되었습니다! <b>느려도 우직하게</b>, <b>제일 편한 날은 오늘</b>이라는 생각으로 성장해가는 중입니다.💪💪💪
-<br>
+ng<br>
 <br>
 <br>
 
@@ -100,7 +100,7 @@
             <li>배포(Travis CI, EC2, S3)</li>
           </ul>
         </li>
-        <li>프로젝트 아키텍처<br> <img src="https://file.notion.so/f/s/582dd20e-62fd-417d-9e64-13bc66200120/project_architecture.png?id=c8d06c01-129d-43f9-86d4-76683cff6522&table=block&spaceId=9e9a769d-2a0d-474a-8727-9467f555888a&expirationTimestamp=1696896000000&signature=Cyye1JBCZxaGbybZfN4KiYXcxyeh_9APHSl_GwpZ8Ro&downloadName=project_architecture.png"></li> 
+        <li>프로젝트 아키텍처<br>![프로젝트 아키텍처](./project_architecture.png)</li> 
       </ul>
     </li>
 </ul>
