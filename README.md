@@ -68,7 +68,7 @@ ng<br>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/><br>
 </div>
 
-### 🦾Stats
+## 🦾Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=fredlee613&show_icons=true">
 <div>
