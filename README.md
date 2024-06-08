@@ -74,37 +74,5 @@
 <div>
 <br />
 <br />
-
-## Projects I've working on / 프로젝트 내역
-<ul>
-    <li>워크토크: 사무공간 렌탈 플랫폼
-      <ul>
-        <li>기간: 2022.11 ~ 2022.12</li>  
-        <li>프로젝트 설명: 사무공간을 대여하고 결제하는 웹 서비스입니다.</li>  
-        <li>사용기술
-          <ul>
-            <li>개발언어/프레임워크: Java11 + SpringBoot 2.XX</li>
-            <li>배포: Travis CI + AWS (EC2, S3)</li>
-            <li>DB: PostgreSQL + Redis(Cache)</li>
-          </ul>
-        </li>  
-        <li>담당파트(백엔드, 배포)
-          <ul>
-            <li>인증(Spring Security)</li>
-            <li>결제 (Iamport)</li>
-            <li>예약 (Redis, ElasticCache, Redisson)</li>
-            <li>페널티</li>
-            <li>마일리지</li>
-            <li>백오피스</li>
-            <li>어드민</li>
-            <li>배포(Travis CI, EC2, S3)</li>
-          </ul>
-        </li>
-        <li>프로젝트 아키텍처<br>
-        <img src="./project_architecture.png", width="900px">
-        </li>
-      </ul>
-    </li>
-</ul>
 <br />
 <br />
